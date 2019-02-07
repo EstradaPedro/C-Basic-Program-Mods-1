@@ -1,2 +1,3 @@
-# C-Basic-Program-Mods-1
-Modifying chapter 1
+# C++-Basic-Program-Mods -->  C++ through game programming Third Edition By: Michael Dawson
+Modifying Chapter 1 - Done 2/6/2019
+Modifying Chapter 2 - 
