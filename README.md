@@ -5,7 +5,7 @@ Modifying Chapter 2 - Done 2/6/2019
 
 Modifying Chapter 3 - Done 2/7/2019
 
-Modifying Chapter 4 - 
+Modifying Chapter 4 - Done 2/7/2019
 
 Modifying Chapter 5 - 
 
