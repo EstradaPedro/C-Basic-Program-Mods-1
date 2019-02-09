@@ -7,7 +7,9 @@ Modifying Chapter 3 - Done 2/7/2019
 
 Modifying Chapter 4 - Done 2/7/2019
 
---  On Hiatus --
+--  On Hiatus --  
+
+Decided that I'm more interested in Web Development ATM and will put all my focus on that and resume this once i feel comfortable
 
 Modifying Chapter 5 - 
 
