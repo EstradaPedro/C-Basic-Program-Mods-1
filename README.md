@@ -7,6 +7,8 @@ Modifying Chapter 3 - Done 2/7/2019
 
 Modifying Chapter 4 - Done 2/7/2019
 
+--  On Hiatus --
+
 Modifying Chapter 5 - 
 
 Modifying Chapter 6 - 
